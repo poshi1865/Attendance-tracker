@@ -19,4 +19,4 @@ you decide to create a new record.
 Also note that the total classes which have been held will be updated
 everytime you take attendance.
 
-Thank you for using our program!
+Thank you!
